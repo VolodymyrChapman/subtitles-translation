@@ -7,6 +7,7 @@
 [por] #1: Primeiros passos
 [spa] #1: Iniciando
 [zho] #1: 起步
+[ukr] #1: На початок
 
 2
 00:00:03,680 --> 00:00:07,520
@@ -17,6 +18,7 @@
 [por] Bem-vindo ao programa de treinamento do Synfig Studio.
 [spa] Bienvenid@ a la serie de tutoriales para el software de animación Synfig Studio.
 [zho] 欢迎参加 Synfig Studio 动画软件培训系列课程。
+[ukr] Ласкаво просимо до серії тренінгів програмного забезпечення Synfig Studio.
 
 3
 00:00:08,100 --> 00:00:12,020
@@ -27,6 +29,7 @@
 [por] Nesta lição vamos aprender sobre a interface e os conceitos básicos do Synfig.
 [spa] En esta lección aprenderemos acerca de la interfaz y conceptos básicos de Synfig.
 [zho] 在本课中，我们要学 Synfig 的界面和基本概念。
+[ukr] У цьому уроці ми дізнаємося про інтерфейс і основні поняття Synfig.
 
 4
 00:00:12,810 --> 00:00:13,890
@@ -37,6 +40,7 @@
 [por] Então vamos começar!
 [spa] Entonces, empezemos!
 [zho] 那，我们开始了。
+[ukr] Отже, почнемо!
 
 5
 00:00:14,220 --> 00:00:17,500
@@ -47,6 +51,7 @@
 [por] Durante este curso estarei trabalhando com a interface em Inglês.
 [spa] Durante este curso estaré trabajando con la interfaz en Inglés.
 [zho] 在课程中我用英语界面。
+[ukr] Під час цього курсу, я буду працювати з англійським інтерфейсом.
 
 6
 00:00:17,640 --> 00:00:22,630
@@ -57,6 +62,7 @@
 [por] Então você pode achar mais conveniente trocar para o Inglês enquanto seguimos com o curso.
 [spa] Así que puede que te resulte mas conveniente cambiar el idioma a Inglés mientras sigues el curso.
 [zho] 所以把你的界面也切换为英语会让你感觉更加舒适。
+[ukr] Таким чином, вам може буде зручніше змінити мову інтерфейсу на англійську мову під час виконання курсу.
 
 7
 00:00:22,770 --> 00:00:26,310
@@ -67,6 +73,7 @@
 [por] É fácil fazer isso - apenas vá no menu "Editar" e clique em "Preferências",
 [spa] Es fácil de hacer -solo ve a "Preferencias" del menú "Edición",
 [zho] 很容易的，只要从“编辑(Edit)”菜单中选择“偏好(Preferences)”
+[ukr] Це легко зробити - просто виберіть "Налаштування" в меню "Редагувати",
 
 8
 00:00:28,350 --> 00:00:34,640
@@ -77,6 +84,7 @@
 [por] então vá até a aba "Diversos" e marque "Inglês" na lista.
 [spa] Luego dirígete a la pestaña de "Miscellaneous", y escoge "English" desde la lista.
 [zho] 然后到“杂项(Misc)”，并从界面语言列表中选择“English”。
+[ukr] потім перейдіть на вкладку "Різне" і виберіть "Англійська" зі списку.
 
 9
 00:00:39,230 --> 00:00:42,430
@@ -87,6 +95,7 @@
 [por] Depois disso você precisa reiniciar o aplicativo.
 [spa] Después de eso necesitas reiniciar la aplicaión.
 [zho] 之后你需要重新启动程序。
+[ukr] Після цього, потрібно перезапустити програму.
 
 10
 00:00:47,100 --> 00:00:50,220
@@ -97,6 +106,7 @@
 [por] Agora vamos dar uma olhada nos principais elementos da interface.
 [spa] Ahora echemos un vistazo a los elementos principales de la interfaz.
 [zho] 现在让我们看看主要的界面元素。
+[ukr] Тепер давайте поглянемо на основні елементи інтерфейсу.
 
 11
 00:00:50,520 --> 00:00:54,390
@@ -107,6 +117,7 @@
 [por] Pode acontecer que a sua instalação do Synfig esteja configurada de forma diferente.
 [spa] Puede ocurrir que su instalación de Synfig este configurada de manera diferente.
 [zho] 你的 Synfig 可能被配置的不太一样。
+[ukr] Ваш інтерфейс може виглядати інакше, ніж мій.
 
 12
 00:00:55,060 --> 00:00:58,310
@@ -117,6 +128,7 @@
 [por] Para restaurar o layout padrão, vá em "Window" -
 [spa] Para reiniciar el diseño predefinido, ve  a "Window"'-
 [zho] 要重置默认的布局，选择“窗口(Window)” -
+[ukr] Щоб відновити макет за замовчуванням, виберіть "OKHO" -
 
 13
 00:01:00,100 --> 00:01:01,430
@@ -127,6 +139,7 @@
 [por] "Workspace" -
 [spa] "Workspace" -
 [zho] “工作空间(Workspace)” -
+[ukr] "Робоча область" -
 
 14
 00:01:02,770 --> 00:01:04,020
